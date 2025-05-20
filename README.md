@@ -31,6 +31,19 @@
 $ npm install
 ```
 
+## Create a .env file in the root directory
+Add the following content to configure your app:
+# App Config
+PORT=
+
+# Database Config
+DB_URL=
+
+# JWT Config
+JWT_SECRET=
+JWT_EXPIRES_IN=1d
+REGISTRATION_TOKEN_EXPIRY=1h
+
 ## Compile and run the project
 
 ```bash
