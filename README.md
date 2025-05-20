@@ -34,6 +34,7 @@ $ npm install
 ## Create a .env file in the root directory
 Add the following content to configure your app:
 
+```env
 #### App Config
 PORT=
 
